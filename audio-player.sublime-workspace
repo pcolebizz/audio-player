@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gul",
+				"gulp-util"
+			],
+			[
+				"s",
+				"sass"
+			],
+			[
+				"gu",
+				"gulp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "player.html",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/audioplayer.js",
+			"settings":
+			{
+				"buffer_size": 5527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/audioplayer.css",
+			"settings":
+			{
+				"buffer_size": 11426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "playlist.json",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/petercole/Public/Dev/www/audio-player/test.json",
+		"/Users/petercole/Public/Dev/www/audio-player/data.json",
+		"/Users/petercole/Public/Dev/www/audio-player/playlist.json",
+		"/Users/petercole/Public/Dev/www/audio-player/js/vizualizer.js",
+		"/Users/petercole/Public/Dev/www/audio-player/js/audioplayer.js",
+		"/Users/petercole/Public/Dev/www/audio-player/css/audioplayer.css",
+		"/Users/petercole/Public/Dev/www/audio-player/player.html",
+		"/Users/petercole/Public/Dev/www/petercole/index.html",
+		"/Users/petercole/Public/Dev/www/audio-player/audio-player.sublime-project",
+		"/Users/petercole/Public/Dev/www/videolizer/playlist.html",
+		"/Users/petercole/Public/Dev/www/videolizer/search.html",
+		"/Users/petercole/Public/Dev/www/videolizer/google-lib/playlist_updates.js",
+		"/Users/petercole/Public/Dev/www/videolizer/google-lib/auth.js",
+		"/Users/petercole/Public/Dev/www/videolizer/google-lib/search.js",
+		"/Users/petercole/Public/Dev/www/videolizer/viz.html",
+		"/Users/petercole/Public/Dev/www/petercole/src/styles/_variables.scss",
+		"/Users/petercole/Public/Dev/www/petercole/builds/development/css/main.css",
+		"/Users/petercole/Public/Dev/www/petercole/builds/development/index.html",
+		"/Users/petercole/Public/Dev/www/portfolio/build/css/master.css",
+		"/Users/petercole/Public/Dev/www/portfolio/src/js/main.js",
+		"/Users/petercole/Public/Dev/www/petercole/src/styles/main.scss",
+		"/Users/petercole/Public/Dev/_tests/taxi-bookmarklet/link.html",
+		"/Users/petercole/Public/Dev/www/portfolio/build/index.html",
+		"/Users/petercole/Public/Dev/www/petercole/email-form.html",
+		"/Users/petercole/Public/Dev/www/petercole/src/js/main.js",
+		"/Users/petercole/Public/Dev/www/petercole/gulpfile.js",
+		"/Users/petercole/Public/Dev/www/petercole/builds/development/email-form.html",
+		"/Users/petercole/Desktop/portfolio/index.html",
+		"/Users/petercole/Public/Dev/www/petercole/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js",
+		"/Users/petercole/Public/Dev/www/petercole/builds/development/send-email.php",
+		"/Users/petercole/Public/Dev/www/petercole/send-email.php",
+		"/Users/petercole/Public/Dev/www/petercole/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss",
+		"/Users/petercole/Public/Dev/www/petercole/bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel.js",
+		"/Users/petercole/Public/Dev/www/petercole/bower.json",
+		"/Users/petercole/Public/Dev/www/petercole/package.json",
+		"/Users/petercole/Public/Dev/www/petercole/src/sass/styles.scss",
+		"/Users/petercole/Public/Dev/www/petercole/src/sass/main.scss",
+		"/Users/petercole/Public/Dev/www/petercole/bower_components/bootstrap-sass/bower.json",
+		"/Users/petercole/Public/Dev/www/petercole/src/sass/_variables.scss",
+		"/Users/petercole/Public/Dev/www/petercole/builds/development/css/styles.css",
+		"/Users/petercole/Public/Dev/www/petercole/.gitignore",
+		"/Users/petercole/Public/Dev/www/petercole/src/sass/_mixins.scss",
+		"/Users/petercole/Public/Dev/www/portfolio/src/css/master.scss",
+		"/Users/petercole/Public/Dev/www/portfolio/gulpfile.js",
+		"/Users/petercole/Desktop/bootstrap-sass-3.3.7/assets/javascripts/bootstrap-sprockets.js",
+		"/Users/petercole/Public/Dev/_training/safari-online/marsbq/src/templates/index.hbs",
+		"/Users/petercole/Public/Dev/www/petercole/components/sass/_variables.scss",
+		"/Users/petercole/Public/Dev/www/petercole/components/sass/_mixins.scss",
+		"/Users/petercole/Public/Dev/www/petercole/components/sass/styles.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel",
+			"font-size",
+			"font-sze"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "player.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/audioplayer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/audioplayer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "playlist.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "audio-player.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"carousel",
+				"bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

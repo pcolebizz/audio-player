@@ -1,0 +1,26 @@
+[
+  {
+        "track": 1,
+        "name": "Bust Your Move",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "2:11",
+        "file": "audio/Bust Your Move.mp3"
+    },
+    {
+        "track": 2,
+        "name": "Metalic Blue",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "1:41",
+        "file": "audio/Melatic Blue.mp3"
+    },
+    {
+        "track": 3,
+        "name": "So Metalic Too",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "1:41",
+        "file": "audio/Melatic Blue.mp3"
+    }
+]

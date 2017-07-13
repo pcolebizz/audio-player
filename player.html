@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Playlist Updates</title>
+    <!-- inject:css -->
+    <link rel="stylesheet" href="css/audioplayer.css">
+    <!-- endinject -->
+
+  </head>
+    <body>
+
+        <div class="container">
+            <div class="column center">
+                <h1>HTML6 Audio Player</h1>
+                <h6>with responsive playlist</h6>
+            </div>
+
+            <div  id="visualizer"></div>
+
+            <div class="column add-bottom">
+                <div id="mainwrap">
+                    <div id="nowPlay">
+                        <span class="left" id="npAction">Paused...</span>
+                        <span class="right" id="npTitle">Title</span>
+                    </div>
+                    <div id="audiowrap">
+                        <div id="audio0">
+                            <audio preload id="player" controls="controls">Your browser does not support HTML5 Audio!</audio>
+                        </div>
+                        <div id="tracks">
+                            <a id="btnPrev">&laquo;</a>
+                            <a id="btnNext">&raquo;</a>
+                        </div>
+                    </div>
+                    <div id="plwrap">
+                        <ul id="plList"></ul>
+                    </div>
+                </div>
+            </div>
+            <div class="column add-bottom center">
+            </div>
+        </div>
+
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script type="text/javascript" src="js/vizualizer.js"></script>
+        <script type="text/javascript" src="js/audioplayer.js"></script>
+
+    </body>
+</html>
+
