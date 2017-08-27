@@ -13,14 +13,39 @@
         "artist": "Peter Cole",
         "album": "Pop Hits",
         "length": "1:41",
-        "file": "audio/Melatic Blue.mp3"
+        "file": "audio/Metallic Blue.mp3"
     },
     {
         "track": 3,
-        "name": "So Metalic Too",
+        "name": "Electric the Air",
         "artist": "Peter Cole",
         "album": "Pop Hits",
         "length": "1:41",
-        "file": "audio/Melatic Blue.mp3"
+        "file": "audio/Electric the Air.mp3"
+    },
+    {
+        "track": 4,
+        "name": "Made of Magic",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "1:41",
+        "file": "audio/Made of Magic.mp3"
+    },
+    {
+        "track": 5,
+        "name": "Inspiring Piano",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "1:41",
+        "file": "audio/Inspiring Piano.mp3"
+    },
+    {
+        "track": 6,
+        "name": "Zombies",
+        "artist": "Peter Cole",
+        "album": "Pop Hits",
+        "length": "1:41",
+        "file": "audio/Zombies.mp3"
     }
+
 ]
